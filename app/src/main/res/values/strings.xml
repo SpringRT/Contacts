@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">Ок</string>
+    <string name="remove">Удалить %s ?</string>
+    <string name="rm">Удалить</string>
+    <string name="sms">Отправить смс...</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
